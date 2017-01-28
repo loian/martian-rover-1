@@ -14,7 +14,8 @@ https://www.aliexpress.com/item/6V-133rpm-DC-Gear-motor-370-free-shipping/326299
 
 while the motors in the steering boxes is a 28-dyj48
 
-The legs should be connected by 22mm tubes (carbon, aluminium or whatever you want)
+The legs parts should be connected by 22mm tubes (carbon, aluminium or whatever you want).
+The legs should be connectet to the body with a 8mm rod 
 
 The body is incomplete. you need to carve it and designe the differential bar
 
@@ -23,6 +24,9 @@ Is a very simple part, have a look here to have an idea of what you need to desi
 http://www.alicesastroinfo.com/2012/07/mars-rover-rocker-bogie-differential/
 
 The display2.123 file is not for exporting stl files, it has been made for display purpose only. 
+
+You will need some bearings 22x8x7 
+
 In the part file there is a bar
 
 

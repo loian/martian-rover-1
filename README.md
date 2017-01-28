@@ -27,8 +27,6 @@ The display2.123 file is not for exporting stl files, it has been made for displ
 
 You will need some bearings 22x8x7 
 
-In the part file there is a bar
-
 
 
 Cheers!
